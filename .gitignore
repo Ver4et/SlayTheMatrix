@@ -1,0 +1,17 @@
+# Временные файлы Visio и Office
+~$*
+~$$*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# IDE и системные файлы
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
